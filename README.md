@@ -1,4 +1,4 @@
-#Twitter's Privacy Policy
+# Twitter's Privacy Policy
 
 This is Twitter's Privacy Policy, and using the bot means that you have read and agree to this policy.
 
