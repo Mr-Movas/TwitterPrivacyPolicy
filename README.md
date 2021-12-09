@@ -33,5 +33,5 @@ In the Twitter channel, every message that is sent is collected to track what is
 ## Privacy
 Because we are aware that you may not feel comfortable having everything you do with the bot or what you write on the Twitter channel exposed to the public we trust Discord and we are logging every data that is collected from the bot to a discord server's channel and those logs can be seen only by the creator of the bot. These logs can help, seeing how you use the discord bot so we can give you a better possible experience in future updates.
 
-
+## 
 **Privacy Policy can change at any time due to future updates.**
